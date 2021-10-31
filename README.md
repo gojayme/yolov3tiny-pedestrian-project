@@ -156,6 +156,8 @@ For business inquiries and professional support requests please visit us at http
 **Issues should be raised directly in the repository.** For business inquiries or professional support requests please visit https://ultralytics.com or email Glenn Jocher at glenn.jocher@ultralytics.com. 
 
 ## Todo
+  - [ ] Create test set
+
   - [ ] Run baseline model
   
   - [ ] Run experiments
