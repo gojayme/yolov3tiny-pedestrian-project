@@ -55,7 +55,7 @@ model = torch.hub.load('ultralytics/yolov3', 'yolov3')  # or 'yolov3_spp', 'yolo
 # Dataset
 
 Run ``get_citypersons.sh``
-  
+Then, run ``make_citypersons_labels.py`` to generate label `.txt` files
 # Image
 img = 'https://ultralytics.com/images/zidane.jpg'
 
