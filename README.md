@@ -87,3 +87,7 @@ $ python train.py --data coco.yaml --cfg yolov3.yaml      --weights '' --batch-s
   - [ ] Run baseline model
   
   - [ ] Run experiments
+  
+  # Final Report
+  
+  [Final Report](Evaluating YOLOv3 Training Methods for Pedestrian Detection.pdf)
